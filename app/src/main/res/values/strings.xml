@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeAnikSap</string>
+    <string name="Null"></string>
+    <string name="Start">Начать</string>
+    <string name="Return">Заново</string>
+    <string name="tictactoe">Крестики-Нолики</string>
+</resources>
